@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715586570 source:c:\users\admin\desktop\popovic nenad c-smjer 22_23\checker\main.c
+	<stdio.h>
+	<stdlib.h>
+

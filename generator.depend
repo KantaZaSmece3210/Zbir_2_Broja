@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715585762 source:c:\users\admin\desktop\popovic nenad c-smjer 22_23\generator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
